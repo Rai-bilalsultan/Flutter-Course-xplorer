@@ -106,4 +106,5 @@ Riphah International University, Islamabad
 
 ## License
 
-This project is developed for learning purposes and can be freely modified and distributed.# MAD_quiz_3
+This project is developed for learning purposes and can be freely modified and distributed.# Flutter-Course-xplorer
+
